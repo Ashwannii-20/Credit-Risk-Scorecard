@@ -1,0 +1,55 @@
+SOURCE AND LICENSE NOTICE
+
+Record title:
+Credit Risk Dataset — 50k Loans, 10 Sectors: Archival Copy Used in a Bachelor Thesis
+
+Original dataset:
+Credit Risk Dataset — 50k loans, 10 sectors
+
+Original creator:
+Sergey Nefedov
+
+Original platform:
+Kaggle
+
+Original dataset URL:
+https://www.kaggle.com/datasets/sergionefedov/credit-risk-dataset-50k-loans-10-sectors
+
+Original dataset identifier:
+sergionefedov/credit-risk-dataset-50k-loans-10-sectors
+
+Dataset version:
+3
+
+License:
+MIT License
+
+License reference:
+https://opensource.org/license/mit
+
+Archival copy deposited by:
+Jakub Dvořák
+
+Purpose of deposit:
+This archival copy was deposited to provide stable and publicly accessible access to the dataset used in the practical part of the bachelor thesis:
+
+“Návrh a vytvoření prediktivního modelu pomocí strojového učení a jeho využití v AI asistentovi pro podporu rozhodování ve firmě”
+
+Faculty of Informatics and Statistics,
+Prague University of Economics and Business.
+
+Provenance statement:
+The files in this archive were downloaded from the original Kaggle dataset and were not modified before being deposited. The original creator remains Sergey Nefedov. Jakub Dvořák is the depositor and data curator of this archival copy, not the original creator of the dataset.
+
+Archive contents:
+- loan_portfolio.csv
+- credit_ratings.csv
+- macro_stress_scenarios.csv
+- portfolio_metrics.csv
+- vintage_analysis.csv
+
+License statement:
+The original Kaggle record specifies the MIT License. Redistribution of this archival copy is made under the same license conditions. The original creator and source are acknowledged above.
+
+Date of archival deposit:
+2026-06-24

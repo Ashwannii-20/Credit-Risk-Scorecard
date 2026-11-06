@@ -1,0 +1,7 @@
+variable,type,value,rag,in_model
+score,PSI,0.0005306267964862641,green,True
+initial_rating,CSI,0.0004152826983034466,green,True
+sector,CSI,8.365017708917461e-05,green,True
+interest_coverage,CSI,9.448322546024259e-06,green,True
+credit_score,CSI,0.0004627638684513505,green,False
+coupon_rate,CSI,1.0559073961164356,red,False

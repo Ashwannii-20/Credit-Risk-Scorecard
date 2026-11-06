@@ -1,0 +1,12 @@
+feature,iv,decision,reason
+initial_rating,2.2261354047894275,kept,
+credit_score,1.051306645215,dropped,abs corr > 0.6 with initial_rating (0.63)
+coupon_rate,0.8172823877426518,dropped,positive coefficient 0.037 (wrong sign)
+sector,0.032762174658025854,kept,
+interest_coverage,0.0207384768484172,kept,
+leverage,0.020181070250568433,dropped,p-value 0.107 > 0.05
+ead,0.0106258429205912,dropped,IV <= 0.02
+loan_type,0.0065405774423132725,dropped,IV <= 0.02
+debt_to_equity,0.005406357514265204,dropped,IV <= 0.02
+collateral,0.001458956189133991,dropped,IV <= 0.02
+maturity_months,0.0011131242538258116,dropped,IV <= 0.02

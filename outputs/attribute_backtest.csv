@@ -1,0 +1,34 @@
+feature,bin,sample,n,n_bad,bad_rate
+initial_rating,"AAA, AA, A, BBB",train,8351.0,17.0,0.002035684349179739
+initial_rating,BB,train,3465.0,40.0,0.011544011544011544
+initial_rating,B,train,2347.0,91.0,0.03877290157648061
+initial_rating,CCC,train,1412.0,187.0,0.13243626062322947
+initial_rating,"AAA, AA, A, BBB",holdout,3656.0,10.0,0.002735229759299781
+initial_rating,BB,holdout,1460.0,13.0,0.008904109589041096
+initial_rating,B,holdout,967.0,32.0,0.033092037228541885
+initial_rating,CCC,holdout,592.0,89.0,0.15033783783783783
+initial_rating,"AAA, AA, A, BBB",oot,9074.0,23.0,0.002534714569098523
+initial_rating,BB,oot,3581.0,33.0,0.009215302987992181
+initial_rating,B,oot,2537.0,115.0,0.04532912889239259
+initial_rating,CCC,oot,1449.0,211.0,0.1456176673567978
+sector,"Consumer, Industrials",train,3150.0,50.0,0.015873015873015872
+sector,"Telecom, Real_Estate, Financials",train,4598.0,92.0,0.020008699434536755
+sector,"Healthcare, Technology",train,3103.0,70.0,0.022558814050918467
+sector,"Energy, Retail",train,3164.0,79.0,0.024968394437420986
+sector,Utilities,train,1560.0,44.0,0.028205128205128206
+sector,"Consumer, Industrials",holdout,1295.0,33.0,0.025482625482625483
+sector,"Telecom, Real_Estate, Financials",holdout,2052.0,39.0,0.019005847953216373
+sector,"Healthcare, Technology",holdout,1322.0,27.0,0.02042360060514372
+sector,"Energy, Retail",holdout,1353.0,28.0,0.020694752402069475
+sector,Utilities,holdout,653.0,17.0,0.026033690658499236
+sector,"Consumer, Industrials",oot,3343.0,69.0,0.020640143583607537
+sector,"Telecom, Real_Estate, Financials",oot,5014.0,116.0,0.023135221380135622
+sector,"Healthcare, Technology",oot,3277.0,78.0,0.02380225816295392
+sector,"Energy, Retail",oot,3337.0,84.0,0.025172310458495654
+sector,Utilities,oot,1670.0,35.0,0.020958083832335328
+interest_coverage,<= 1.75,train,1575.0,49.0,0.03111111111111111
+interest_coverage,> 1.75,train,14000.0,286.0,0.020428571428571428
+interest_coverage,<= 1.75,holdout,657.0,13.0,0.0197869101978691
+interest_coverage,> 1.75,holdout,6018.0,131.0,0.021768029245596544
+interest_coverage,<= 1.75,oot,1654.0,35.0,0.021160822249093107
+interest_coverage,> 1.75,oot,14987.0,347.0,0.023153399612997932

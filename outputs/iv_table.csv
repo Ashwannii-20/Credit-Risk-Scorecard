@@ -1,0 +1,12 @@
+feature,type,n_bins,iv,strength
+initial_rating,categorical,4,2.2261354047894275,suspicious
+credit_score,numeric,6,1.051306645215,suspicious
+coupon_rate,numeric,6,0.8172823877426518,suspicious
+sector,categorical,5,0.032762174658025854,weak
+interest_coverage,numeric,2,0.0207384768484172,weak
+leverage,numeric,2,0.020181070250568433,weak
+ead,numeric,4,0.0106258429205912,unpredictive
+loan_type,categorical,5,0.0065405774423132725,unpredictive
+debt_to_equity,numeric,3,0.005406357514265204,unpredictive
+collateral,categorical,3,0.001458956189133991,unpredictive
+maturity_months,numeric,3,0.0011131242538258116,unpredictive

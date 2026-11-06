@@ -1,0 +1,4 @@
+,initial_rating,sector,interest_coverage
+initial_rating,1.0,0.009,-0.0
+sector,0.009,1.0,-0.006
+interest_coverage,-0.0,-0.006,1.0
